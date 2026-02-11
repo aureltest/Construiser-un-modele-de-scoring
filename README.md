@@ -65,7 +65,6 @@ Au sein d'une **société financière**, l'objectif est de construire un **modè
 ## 👤 Auteur
 
 **Aurélien T.** — Data Scientist & Ingénieur IA  
-🔗 [Portfolio](https://aurel-test.fr) · [GitHub](https://github.com/aureltest)
 
 ---
 
